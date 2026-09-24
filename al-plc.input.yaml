@@ -22,7 +22,7 @@ likelihood:
   act_dr6_lenslike.ACTDR6LensLike:
     lens_only: false
     stop_at_error: true
-    lmax: 4000
+    #lmax: 4000
     variant: actplanck_extended
   bao.desi_dr2.desi_bao_all: null
   sn.pantheonplus: null
